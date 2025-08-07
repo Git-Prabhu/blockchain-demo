@@ -1,3 +1,4 @@
+#Can be leveraged for training purposes
 # Blockchain Demo
 A web-based demonstration of blockchain concepts.
 
